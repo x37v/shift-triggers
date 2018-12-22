@@ -8,6 +8,6 @@ It uses an MTA style connector for power, and should be able to be driven by 12 
 
 ## Thanks
 
-Thanks to [https://mutable-instruments.net](Mutable Instruments) for providing example schematics.
-I modeled these triggers off the [https://mutable-instruments.net/modules/grids/](Grids)
-[https://github.com/pichenettes/eurorack/tree/master/grids/hardware_design](schematic).
+Thanks to [Mutable Instruments](https://mutable-instruments.net) for providing example schematics.
+I modeled these triggers off the [Grids](https://mutable-instruments.net/modules/grids/)
+[schematic](https://github.com/pichenettes/eurorack/tree/master/grids/hardware_design).
