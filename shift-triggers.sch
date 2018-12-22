@@ -283,13 +283,13 @@ Wire Wire Line
 Text GLabel 1050 1375 0    60   Output ~ 0
 CLK
 Text GLabel 4925 1150 3    60   Input ~ 0
-CLK
+CLR
 Text GLabel 1050 1475 0    60   Output ~ 0
 CLR
 Text GLabel 1050 1675 0    60   Output ~ 0
 RCLK
 Text GLabel 4775 1150 3    60   Input ~ 0
-CLR
+CLK
 Text GLabel 4625 1150 3    60   Input ~ 0
 RCLK
 Wire Wire Line
@@ -947,9 +947,9 @@ $EndComp
 Text GLabel 4625 1675 2    60   Input ~ 0
 INSER-3v
 Text GLabel 4625 1800 2    60   Input ~ 0
-CLK-3v
-Text GLabel 4625 1925 2    60   Input ~ 0
 CLR-3v
+Text GLabel 4625 1925 2    60   Input ~ 0
+CLK-3v
 Text GLabel 4625 2050 2    60   Input ~ 0
 RCLK-3v
 Wire Wire Line
